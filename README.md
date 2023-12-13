@@ -56,17 +56,21 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+![Screenshot 2023-11-26 171804](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/d277e2c6-89ed-40a5-ad83-3099fff9e35e)
 
 
 
+![Screenshot 2023-11-26 172417](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/77ac5f7a-6fad-4a7f-be58-6b368048fa26)
 
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 
+![Screenshot 2023-11-26 171521](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/ce739ba9-8e48-4dbb-87a8-67a9bb4d7389)
 
 
+![Screenshot 2023-11-26 171915](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/b9438b7a-472a-402e-a4ae-d611e8780534)
 
 
 
@@ -74,12 +78,16 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+![Screenshot 2023-11-26 171857](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/a539c500-76af-4afd-a856-1ce03c6e719c)
 
+![Screenshot 2023-11-26 171402](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/fdee7025-b0a4-4ba0-a3b3-1329f18d9b5c)
 
 
 
 ### TRUTH TABLE 
 
+![th](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/4ac43e23-2976-4fd2-b6c7-971db0b308db)
+![th](https://github.com/Thirumalai23013035/Exp-7-Synchornous-counters-/assets/153185249/7572fac4-0794-4d2f-a249-04d72e76c00d)
 
 
 
